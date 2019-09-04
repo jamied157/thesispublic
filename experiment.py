@@ -7,9 +7,11 @@ import torch
 import argparse
 import time
 
+# Keep track of time for saving timestamp
 execution_time = time.time()
 execution_time = time.ctime(execution_time)
 
+# Import arguments
 parser = argparse.ArgumentParser()
 parser.add_argument('--data_name', '-d', required=True,
                     help='Name of the dataset eg "fbumper_repair_labor"')
@@ -22,12 +24,13 @@ args = parser.parse_args()
 data_name = args.data_name
 random_seed = args.random_seed
 model_name = args.model
-logging.basicConfig(filename='experiment.log', filemode='w', level=logging.DEBUG)
-
+# Logging for debugging nets
+logging.basicConfig(filename='experiment.log', filemode='w', level=logging.WARNING)
 
 np.random.seed(random_seed)
 torch.random.manual_seed(random_seed)
 
+# Select model from arguments
 if model_name.lower() == 'dropoutmodel':
     model = models.DropoutModel
     param_dict = {'batch_size': [32, 64, 128], 'n_epoch': [64, 128, 256], 'dropout_rate': [0.05, 0.005],
@@ -65,6 +68,7 @@ elif model_name.lower() == 'stablemixturemodel':
 else:
     raise Exception('Model Name not recognised')
 
+# Import data
 X, y = data.importUCI(data_name)
 n_splits = data.load_split_num(data_name)
 err_array = np.zeros((n_splits, 2))
@@ -72,6 +76,7 @@ calibration_arr = np.zeros((n_splits, 9))
 best_param_list = []
 
 for split in np.arange(n_splits):
+    # Loop through each split - train and record test error
     logging.info('Split: {}'.format(split))
     print('Split ' + str(split))
     index_train = data.get_split_index(data_name, split, train=True)

@@ -31,6 +31,7 @@ class UncertaintyDataset(data.Dataset):
         return self.X.shape[1]
 
     def normalise_y(self):
+        """Normalise outputs and save parameters to instance"""
         if not self.y_normalised:
             self.Y = (self.Y - self.y_mean) / self.y_std
             self.y_normalised = True
@@ -39,6 +40,7 @@ class UncertaintyDataset(data.Dataset):
         return self.y_mean, self.y_std
 
     def normalise_x(self):
+        """Normalise outputs and save parameters to instance"""
         if not self.x_normalised:
             # Check for 0 standard deviation variables
             constant_x = self.x_std == 0
@@ -56,6 +58,7 @@ class UncertaintyDataset(data.Dataset):
 
 
 def ensemble_loss(y: Tensor, y_hat_arr: Tensor, tau: float):
+    """Loss for MC Dropout Net"""
     t = y_hat_arr.shape[0]
     ll = (torch.logsumexp(-0.5 * tau * (y - y_hat_arr.squeeze()) ** 2, 0) - np.log(t)
           - 0.5 * np.log(2 * np.pi) + 0.5 * np.log(tau))
@@ -81,6 +84,7 @@ def normal_nll(targets: torch.Tensor, predictions: torch.Tensor, var: torch.Tens
 
 
 def cross_validate(train_data, ModelClass, param_grid):
+    """Cross validation routine - splits once and loops over possible parameters, reports parameters with least error"""
     param_grid = ParameterGrid(param_grid)
     num_training_examples = int(0.8 * len(train_data))
 
@@ -108,7 +112,7 @@ def cross_validate(train_data, ModelClass, param_grid):
 
 
 def standard_training_setup(train_data: UncertaintyDataset, test_data: UncertaintyDataset, ModelClass, param_grid):
-    # Need to normalise the y_train and remember the mean and std for prediction on the test set
+    """Standard setup for uncertainty eexperiments"""
     best_param_dict = cross_validate(train_data, ModelClass, param_grid)
     print('Parameters: ' + str(best_param_dict))
     model_1 = ModelClass(train_data.n_features(), best_param_dict)
