@@ -1,0 +1,205 @@
+INFO:root:Split: 0
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 1
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 2
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 3
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 4
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 5
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 6
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 7
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 8
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 9
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 10
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 11
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 12
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 13
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 14
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 15
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 16
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 17
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 18
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 19
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 0
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 1
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 2
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 3
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 4
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 5
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 6
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 7
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 8
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 9
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 10
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 11
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 12
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 13
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 14
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 15
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 16
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 17
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 18
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 19
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:Split: 0
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 32, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.01, 'n_epochs': 40}
+INFO:root:INFO DICT: {'batch_size': 100, 'dropout_rate': 0, 'learning_rate': 0.001, 'n_epochs': 40}
